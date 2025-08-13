@@ -8,7 +8,7 @@ Construida bajo **principios SOLID** y arquitectura **MVC** con tecnologías mod
 ---
 
 ## 🚀 Tecnologías utilizadas
-- **Java 21**  
+- **Java 17**  
 - **Spring Boot 3.5.4** (Web, Data JPA, Validation, Thymeleaf)  
 - **MySQL 8**  
 - **Flyway** (migraciones de base de datos)  
